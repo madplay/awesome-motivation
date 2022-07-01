@@ -48,12 +48,15 @@ _"나태해진 나 자신에게 동기부여한다."_
 <br><br>
 
 ## 추천 영화
-### [행복을 찾아서(2006)](https://www.youtube.com/watch?v=yASCMM33n-s)
-- "넌 못할 거라는 말 귀담아듣지 마, 꿈을 가졌으면 지켜내야지"
+### [행복을 찾아서(2006)](https://movie.naver.com/movie/bi/mi/basic.naver?code=64354)
+- [유튜브: "넌 못할 거라는 말 귀담아듣지 마, 꿈을 가졌으면 지켜내야지"](https://www.youtube.com/watch?v=yASCMM33n-s)
 - 힘들어서 포기하고 싶을 때 동기부여되는 실화 기반 영화.
 
 ### [세얼간이(2009)](https://movie.naver.com/movie/bi/mi/basic.naver?code=73372)
 - "알이즈웰", "너의 재능을 따라가면 성공은 뒤따라 올 것이다"
+
+### [위플래쉬(2014)](https://movie.naver.com/movie/bi/mi/basic.naver?code=119632)
+- "깨져서 나오거나 깨고 나오거나"
 
 <br>
 
