@@ -16,6 +16,11 @@ _"나태해진 나 자신에게 동기부여한다."_
 
 <br>
 
+## Contributing
+[`CONTRIBUTING.md`](/CONTRIBUTING.md)를 읽고 기여해주세요!
+
+<br>
+
 # 목차
 > PR은 환영입니다! 자신에게 동기부여를 해준 멋진 것들을 공유해주세요.❤️<br>
 
@@ -64,8 +69,3 @@ _"나태해진 나 자신에게 동기부여한다."_
 
 ### [위플래쉬(2014)](https://movie.naver.com/movie/bi/mi/basic.naver?code=119632)
 - "깨져서 나오거나 깨고 나오거나"
-
-<br>
-
-## Contributing
-[`CONTRIBUTING.md`](/CONTRIBUTING.md)를 읽고 기여해주세요!
